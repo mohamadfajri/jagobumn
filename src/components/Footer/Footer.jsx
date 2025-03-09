@@ -53,8 +53,8 @@ const Footer = () => {
       <div className="container">
         <div className="footer__wrapper">
           <div className="footer__logo">
-            <h2>Blueprint</h2>
-            <p className="description">Grow with us</p>
+            <h2>JagoBUMN</h2>
+            <p className="description">Website Tempat belajar BUMN 2025</p>
 
             <p className="small__text description">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.

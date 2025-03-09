@@ -8,20 +8,20 @@ import caseStudy from "../../components/images/case-study.png";
 const blogData = [
   {
     imgUrl: videoImg,
-    title: "Video",
-    desc: "To Know about work. Watch some videos",
+    title: "Soal yang Selalu Update",
+    desc: "Kami menyediakan soal yang relevan dan selalu diperbarui sesuai dengan format terbaru rekrutmen BUMN, sehingga kamu belajar dengan bahan terkini.",
     linkUrl: "#",
   },
   {
     imgUrl: articleImg,
     title: "Article",
-    desc: "Do you want to improve the way your brand interacts with",
+    desc: "Setiap soal dilengkapi pembahasan langkah demi langkah yang membantu kamu memahami cara menjawab dengan tepat dan efisien.",
     linkUrl: "#",
   },
   {
     imgUrl: caseStudy,
-    title: "Case study",
-    desc: "Boost your conversation rate with us",
+    title: "Dibuat Oleh Team Profesional",
+    desc: "Soal Dibuat Oleh Team Dari jagoBumn",
     linkUrl: "#",
   },
 ];
@@ -31,10 +31,9 @@ const Blog = () => {
     <section id="blog" className="blog">
       <div className="container">
         <div className="blog__top-content">
-          <h6 className="subtitle">Our blog</h6>
           <h2>
-            Lets have a look from our
-            <span className="highlight"> recent blog</span>
+            Kenapa Harus Beli Di 
+            <span className="highlight"> JagoBumn ?</span>
           </h2>
         </div>
 

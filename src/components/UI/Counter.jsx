@@ -4,16 +4,16 @@ import "../styles/counter.css";
 
 const counterData = [
   {
-    number: "5k",
-    text: "Clients",
+    number: "1.112",
+    text: "Peserta Sudah Membeli",
   },
   {
-    number: 350,
-    text: "Running Projects",
+    number: 2000,
+    text: "Formasi BUMN 2025 Tersedia",
   },
   {
-    number: 900,
-    text: "Projects Completed",
+    number: 50,
+    text: "BUMN",
   },
 ];
 

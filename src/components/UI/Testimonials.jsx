@@ -23,8 +23,8 @@ const Testimonials = () => {
         <div className="slider__content-top">
           <h6 className="subtitle">Testimonials</h6>
           <h2>
-            Trusted by more than
-            <span className="highlight">5,000 customers</span>
+            Dari Pengguna yang Sudah Membeli 
+            <span className="highlight">Paket Soal JAGOBUMN</span>
           </h2>
         </div>
 

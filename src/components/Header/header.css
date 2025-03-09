@@ -29,8 +29,10 @@
   color: var(--link-active);
 }
 
-.logo h2 {
-  color: var(--primary-color);
+/* Perubahan pada logo */
+.logo img {
+  height: 50px; /* Sesuaikan tinggi gambar sesuai kebutuhan */
+  width: auto; /* Memastikan lebar otomatis untuk menjaga proporsi */
 }
 
 .light__mode span {
@@ -116,11 +118,12 @@
     line-height: 50px;
   }
 
-  .mobile__menu {
-    font-size: 1rem;
+  /* Perubahan pada logo untuk tampilan mobile */
+  .logo img {
+    height: 40px; /* Sesuaikan tinggi untuk perangkat kecil */
   }
 
-  .logo h2 {
-    font-size: 1.3rem;
+  .mobile__menu {
+    font-size: 1rem;
   }
 }
