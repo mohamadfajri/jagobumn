@@ -4,7 +4,7 @@ import "../styles/counter.css";
 
 const counterData = [
   {
-    number: "1.112",
+    number: "816",
     text: "Peserta Sudah Membeli",
   },
   {
