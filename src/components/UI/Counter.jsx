@@ -12,7 +12,7 @@ const counterData = [
     text: "Formasi BUMN 2025 Tersedia",
   },
   {
-    number: 50,
+    number: 40,
     text: "BUMN",
   },
 ];
