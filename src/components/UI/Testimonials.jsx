@@ -32,12 +32,7 @@ const Testimonials = () => {
           <Slider {...settings}>
             <div className="slider__item">
               <p className="description">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Dolores sequi, laboriosam expedita maxime porro quisquam
-                accusantium maiores in amet quasi, sint, culpa dolorem
-                doloremque quaerat commodi fugiat rem? Eaque dignissimos sunt
-                voluptatem omnis, molestiae ipsa fuga dicta doloremque quae!
-                Consequuntur.
+                Saya Tau Soal Ini dari Mimin BUMN, Paket Soalnya Membantu Sekali Proses Belajar BUMN
               </p>
 
               <div className="customer__details">
@@ -45,20 +40,15 @@ const Testimonials = () => {
                   <img src={ava01} alt="" />
                 </div>
                 <div>
-                  <h5 className="customer__name">Jhon Doe</h5>
-                  <p className="description">CEO, Work Creation</p>
+                  <h5 className="customer__name">M Zidni Azaki</h5>
+                  <p className="description">S1- Hukum</p>
                 </div>
               </div>
             </div>
 
             <div className="slider__item">
               <p className="description">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Dolores sequi, laboriosam expedita maxime porro quisquam
-                accusantium maiores in amet quasi, sint, culpa dolorem
-                doloremque quaerat commodi fugiat rem? Eaque dignissimos sunt
-                voluptatem omnis, molestiae ipsa fuga dicta doloremque quae!
-                Consequuntur.
+                Terimakasih JagoBumn Materi Materi Dan soal soalnya bisa saya gunakan untuk Persiapan RBB BUMN, Semoga Sukses Team JagoBumn
               </p>
 
               <div className="customer__details">
@@ -66,20 +56,15 @@ const Testimonials = () => {
                   <img src={ava02} alt="" />
                 </div>
                 <div>
-                  <h5 className="customer__name">Melissa Stuart</h5>
-                  <p className="description">Software Developer</p>
+                  <h5 className="customer__name">Indah</h5>
+                  <p className="description">S-1 Psikologi</p>
                 </div>
               </div>
             </div>
 
             <div className="slider__item">
               <p className="description">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Dolores sequi, laboriosam expedita maxime porro quisquam
-                accusantium maiores in amet quasi, sint, culpa dolorem
-                doloremque quaerat commodi fugiat rem? Eaque dignissimos sunt
-                voluptatem omnis, molestiae ipsa fuga dicta doloremque quae!
-                Consequuntur.
+                Platfrom Penyedia Soal Soal BUMN Terbaik Yang Pernah saya Beli , Soal Soal Up to date dan penjelasan Lengkap
               </p>
 
               <div className="customer__details">
@@ -87,8 +72,8 @@ const Testimonials = () => {
                   <img src={ava03} alt="" />
                 </div>
                 <div>
-                  <h5 className="customer__name">Brad Henderson</h5>
-                  <p className="description">Sr. Product designer</p>
+                  <h5 className="customer__name">Putri Sabilla</h5>
+                  <p className="description">S1- Management</p>
                 </div>
               </div>
             </div>
