@@ -6,11 +6,11 @@ import lightImg from "../../components/images/light-hero-bg.jpg";
 
 const Hero = ({ theme }) => {
   const handleGetStartedClick = () => {
-    window.location.href = "https://www.australia.com";
+    window.location.href = "https://lynk.id/jagobumn/O3vk5DN";
   };
 
   const handleDiscoverMoreClick = () => {
-    window.location.href = "https://www.akucinta.com";
+    window.location.href = "https://api.whatsapp.com/send/?phone=+62895624999799&text=Halo%20Min%20saya%20Butuh%20Bantuan%20Soal%20JagoBumn";
   };
 
   return (
