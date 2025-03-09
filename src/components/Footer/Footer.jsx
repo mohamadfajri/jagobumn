@@ -1,48 +1,18 @@
 import React from "react";
 import "../../components/Footer/footer.css";
 
-const quickLinks01 = [
-  {
-    path: "#",
-    display: "Marketing",
-  },
-  {
-    path: "#",
-    display: "Analytics",
-  },
-  {
-    path: "#",
-    display: "Commerce",
-  },
-];
-
-const quickLinks02 = [
-  {
-    path: "#",
-    display: "Pricing",
-  },
-  {
-    path: "#",
-    display: "Documentation",
-  },
-  {
-    path: "#",
-    display: "Guides",
-  },
-];
-
 const quickLinks03 = [
   {
     path: "#about",
-    display: "About",
+    display: "Home",
   },
   {
     path: "#",
-    display: "Jobs",
+    display: "Jagobumn",
   },
   {
     path: "#blog",
-    display: "Blog",
+    display: "Testimonial",
   },
 ];
 
@@ -57,36 +27,15 @@ const Footer = () => {
             <p className="description">Website Tempat belajar BUMN 2025</p>
 
             <p className="small__text description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Praesentium, commodi rerum laudantium minus quam ducimus eos
-              labore consequuntur repellat voluptatem!
+              JagoGroup
+              -JagoCPNS
+              -JagoKedinasan
+              -JagoBUMN
             </p>
           </div>
 
           <div className="footer__quick-links">
-            <h3 className="quick__link-title">Solutions</h3>
-            <ul className="quick__links">
-              {quickLinks01.map((item, index) => (
-                <li className="quick__link-item" key={index}>
-                  <a href={item.path}>{item.display}</a>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          <div className="footer__quick-links">
-            <h3 className="quick__link-title">Support</h3>
-            <ul className="quick__links">
-              {quickLinks02.map((item, index) => (
-                <li className="quick__link-item" key={index}>
-                  <a href={item.path}>{item.display}</a>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          <div className="footer__quick-links">
-            <h3 className="quick__link-title">Company</h3>
+            <h3 className="quick__link-title">Information</h3>
             <ul className="quick__links">
               {quickLinks03.map((item, index) => (
                 <li className="quick__link-item" key={index}>

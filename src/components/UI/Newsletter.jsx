@@ -9,8 +9,7 @@ const Newsletter = () => {
           <div className="newsletter__content">
             <h6 className="subtitle">Let's work</h6>
             <h2>
-              Latih <span className="highlight">hidden</span> ideas and
-              subscribe!
+              Latih Kemampuan Persiapan RBB BUMN Bersama <span className="highlight">JagoBUMN</span> .
             </h2>
           </div>
 
