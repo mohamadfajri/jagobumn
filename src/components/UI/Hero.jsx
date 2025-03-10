@@ -6,7 +6,7 @@ import lightImg from "../../components/images/light-hero-bg.jpg";
 
 const Hero = ({ theme }) => {
   const handleGetStartedClick = () => {
-    window.location.href = "https://lynk.id/jagobumn/O3vk5DN";
+    window.location.href = "https://jagobumn-21682.myr.id/catalog/soal-latihan-fr-materi-tkd-bumn";
   };
 
   const handleDiscoverMoreClick = () => {
