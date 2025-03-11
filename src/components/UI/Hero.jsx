@@ -10,7 +10,7 @@ const Hero = ({ theme }) => {
   };
 
   const handleDiscoverMoreClick = () => {
-    window.location.href = "https://api.whatsapp.com/send/?phone=+62895624999799&text=Halo%20Min%20saya%20Butuh%20Bantuan%20Soal%20JagoBumn";
+    window.location.href = "https://jagobumn-21682.myr.id/catalog/soal-fr-bumn-2024-gratis";
   };
 
   return (
@@ -32,7 +32,7 @@ const Hero = ({ theme }) => {
                 Order Disini
               </button>
               <button className="secondary__btn" onClick={handleDiscoverMoreClick}>
-                WhatsApp Admin
+                Coba Gratis !
               </button>
             </div>
           </div>
