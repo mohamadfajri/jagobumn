@@ -6,7 +6,7 @@ import lightImg from "../../components/images/light-hero-bg.jpg";
 
 const Hero = ({ theme }) => {
   const handleGetStartedClick = () => {
-    window.location.href = "https://jagobumn-21682.myr.id/catalog/soal-latihan-fr-materi-tkd-bumn";
+    window.location.href = "https://api.whatsapp.com/send/?phone=+62895624999799&text=Halo%20Min%20Saya%20Butuh%20Bantuan%20Tentang%20Soal%20BUMN%20Nih";
   };
 
   const handleDiscoverMoreClick = () => {
@@ -32,7 +32,7 @@ const Hero = ({ theme }) => {
                 Order Disini
               </button>
               <button className="secondary__btn" onClick={handleDiscoverMoreClick}>
-                Coba Gratis !
+                Hubungi Admin
               </button>
             </div>
           </div>
